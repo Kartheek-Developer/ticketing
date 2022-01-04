@@ -7,7 +7,6 @@ on:
     paths:
       - 'infra/**'
 
-# update heloo
 jobs:
   build:
     runs-on: ubuntu-latest
